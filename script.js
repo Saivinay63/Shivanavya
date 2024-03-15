@@ -37,14 +37,14 @@ $(document).ready(function(){
     var typed = new Typed(".typing", {
         strings: ["Adventures", "Vacations", "Experiences","Destinations"],
         typeSpeed: 300,
-        backSpeed: 60,
+        backSpeed: 100,
         loop: true
     });
 
     var typed = new Typed(".typing-2", {
         strings: ["Adventures", "Vacations", "Experiences","Destinations"],
         typeSpeed: 300,
-        backSpeed: 60,
+        backSpeed: 100,
         loop: true
     });
 
